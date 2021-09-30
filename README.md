@@ -24,7 +24,7 @@
 ## 	:black_small_square: And I'm trilingual:us::jp::kr:
 ### TOEIC 805
 ### JLPT N2
-and __Korean__, my mother language
+and __Korean__, my mother tongue
 
 <!--
 **Sessho-maru/Sessho-maru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
