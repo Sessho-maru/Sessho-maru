@@ -10,14 +10,25 @@
 </br>
 
 ## 	:black_small_square: And some side projects that I created
-### React Audio Player
-* implemented with _**react.js**_
-* _**scraps Youtube**_ then render its contents
+### [First flutter App](https://github.com/Sessho-maru/flutter)
+* _**scraps images**_ from posting site called safebooru
+
+### [React Audio Player](https://github.com/Sessho-maru/React_Audio)
+* _**crawls Youtube**_ then render its contents
 * supports `Play / Pause` and `Shuffle / Queue` playbacks
+* parse music tag
+
+### [TDArray](https://github.com/Sessho-maru/TDArray)
+* _**Implementation of Dynamic Array using C++**_
+* _**Template specialization for pointer type**_
+
+### [Sorting-Algorithms](https://github.com/Sessho-maru/Sorting-Algorithms)
+* Bubble, Insertion, Quick _**sorting algorithms implemented with C++**_
 
 </br>
 
-## 	:black_small_square: And I'm ranked as __*A*__ on Paiza[profile site link] PS site
+## 	:black_small_square: And I'm ranked as __*B*__ on Paiza
+
 
 </br>
 
