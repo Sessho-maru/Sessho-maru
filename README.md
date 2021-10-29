@@ -10,7 +10,7 @@
 </br>
 
 ## 	:black_small_square: And some side projects that I created ...
-### [First flutter App](https://github.com/Sessho-maru/flutter)
+### [First flutter app](https://github.com/Sessho-maru/flutter)
 * _**scraps images**_ from posting site called safebooru
 
 ### [React Audio Player](https://github.com/Sessho-maru/React_Audio)
