@@ -4,12 +4,12 @@
 
 </br>
 
-### 	:black_small_square: I'm mainly use programming languages such that...
+### 	:black_small_square: I'm mainly use ...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sessho-maru&layout=compact)](https://github.com/sessho-maru/github-readme-stats)
 
 </br>
 
-## 	:black_small_square: And some side projects that I created
+## 	:black_small_square: And some side projects that I created ...
 ### [First flutter App](https://github.com/Sessho-maru/flutter)
 * _**scraps images**_ from posting site called safebooru
 
