@@ -10,17 +10,17 @@
 </br>
 
 ## 	:black_small_square: And some side projects that I created ...
-### [First flutter app](https://github.com/Sessho-maru/flutter)
-* _**scraps images**_ from posting site called safebooru
-
-### [React Audio Player](https://github.com/Sessho-maru/React_Audio)
+### [React Audio Player](https://github.com/Sessho-maru/React_Audio) (日本語 Readme)
 * _**crawls Youtube**_ then render its contents
 * supports `Play / Pause` and `Shuffle / Queue` playbacks
 * parse music tag
 
-### [TDArray](https://github.com/Sessho-maru/TDArray)
+### [TDArray](https://github.com/Sessho-maru/TDArray) (英語 Readme)
 * _**Implementation of Dynamic Array using C++**_
 * _**Template specialization for pointer type**_
+
+### [First flutter app](https://github.com/Sessho-maru/flutter)
+* _**scraps images**_ from posting site called safebooru
 
 ### [Sorting-Algorithms](https://github.com/Sessho-maru/Sorting-Algorithms)
 * Bubble, Insertion, Quick _**sorting algorithms implemented with C++**_
