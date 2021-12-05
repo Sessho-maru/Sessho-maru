@@ -1,6 +1,6 @@
 # Hi, let me give you _brief introduction_. It won't be so long :racing_car::checkered_flag:
 
-### I Am a Programmer considers _✨basics✨_ is the most important part when it comes to do programming.
+### I am a developer considers _✨basics✨_ is the most important part when it comes to programming.
 
 </br>
 
