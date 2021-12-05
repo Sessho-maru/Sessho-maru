@@ -9,7 +9,7 @@
 
 </br>
 
-## 	:black_small_square: And some side projects that I created ...
+## 	:black_small_square: And some side projects that I made ...
 ### [React Audio Player](https://github.com/Sessho-maru/React_Audio) (日本語 Readme)
 * _**crawls Youtube**_ then render its contents
 * `Play / Pause` and `Shuffle / Queue` playbacks
