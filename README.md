@@ -4,16 +4,17 @@
 
 </br>
 
-### 	:black_small_square: I'm mainly use ...
+### 	:small_blue_diamond: I'm mainly use ...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sessho-maru&layout=compact)](https://github.com/sessho-maru/github-readme-stats)
 
 </br>
 
-## 	:black_small_square: And some side projects that I made ...
+## 	:small_blue_diamond: And some side projects that I made ...
 ### [React Audio Player](https://github.com/Sessho-maru/React_Audio) (日本語 Readme)
 * _**crawls Youtube**_ then render its contents
 * `Play / Pause` and `Shuffle / Queue` playbacks
 * parse music tag
+* [**DEMO**](http://13.52.99.145/)
 
 ### [TulGallery](https://github.com/Sessho-maru/TulGallery) (日本語 Readme)
 * SPA Image gallery
