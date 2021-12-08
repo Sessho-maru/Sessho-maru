@@ -14,7 +14,7 @@
 * _**crawls Youtube**_ then render its contents
 * `Play / Pause` and `Shuffle / Queue` playbacks
 * parse music tag
-* [**DEMO**](http://13.52.99.145/)
+* [**DEMO**](http://184.72.2.1/)
 
 ### [TulGallery](https://github.com/Sessho-maru/TulGallery) (日本語 Readme)
 * SPA Image gallery
